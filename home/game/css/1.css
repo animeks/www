@@ -1,0 +1,50 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	height: 100px;
+	width: 100%;
+}
+header h1 {
+	text-align: center;
+	font-family: arial;
+	font-size: 25px;
+	padding :20px;
+	color: #B22222;
+}
+.hasil {
+	width: 100%;
+}
+.hasil2 {
+	width: 100%;
+	text-align: center;
+	margin :10px 10px;
+}
+.tile-body img {
+	margin :10px 10px;
+}
+.main button {
+	height: 40px;
+	width: 200px;
+	background-color: green;
+	border-radius: 10px;
+	border :0 solid black;
+	margin-top: 10px;
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+}
+.main button:hover{
+	background-color: #008080;
+}
+.tulis textarea{
+	width: 300px;
+	height: 150px;
+	border:1px solid red;
+}
+.tulis {
+	text-align: center;
+	margin-top: 20px;
+}
